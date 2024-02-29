@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BigBeeNerd
 - 👀 I’m interested in Programming, Gaming, Pokemon, Music, and Art.
 - 🌱 I’m currently learning Many Coding Languages
-- 💞️ I’m looking to collaborate on Programming Games And robots.
+- 💞️ I’m looking to collaborate on Programming Games And Helpful Bots.
 - 📫 How to reach me ...?
 
 <!---
